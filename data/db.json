@@ -1639,6 +1639,60 @@
       "plot": "A couple of recently deceased ghosts contract the services of a \"bio-exorcist\" in order to remove the obnoxious new owners of their house.",
       "posterUrl": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTUwODE3MDE0MV5BMl5BanBnXkFtZTgwNTk1MjI4MzE@._V1_SX300.jpg",
       "_id": "624f53f69cf510f22283c4ad"
+    },
+    {
+      "title": "Beetlejuice",
+      "year": 1988,
+      "runtime": 92,
+      "director": "Tim Burton",
+      "actors": "Alec Baldwin, Geena Davis, Annie McEnroe, Maurice Page",
+      "plot": "A couple of recently deceased ghosts contract the services of a \"bio-exorcist\" in order to remove the obnoxious new owners of their house.",
+      "posterUrl": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTUwODE3MDE0MV5BMl5BanBnXkFtZTgwNTk1MjI4MzE@._V1_SX300.jpg",
+      "_id": "62508430c32e1ebe0ee90d57",
+      "genres": []
+    },
+    {
+      "title": "Beetlejuice",
+      "year": 1988,
+      "runtime": 92,
+      "director": "Tim Burton",
+      "actors": "Alec Baldwin, Geena Davis, Annie McEnroe, Maurice Page",
+      "plot": "A couple of recently deceased ghosts contract the services of a \"bio-exorcist\" in order to remove the obnoxious new owners of their house.",
+      "posterUrl": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTUwODE3MDE0MV5BMl5BanBnXkFtZTgwNTk1MjI4MzE@._V1_SX300.jpg",
+      "_id": "6250847b65f33794eeb64eb9",
+      "genres": []
+    },
+    {
+      "title": "Beetlejuice",
+      "year": 1988,
+      "runtime": 92,
+      "director": "Tim Burton",
+      "actors": "Alec Baldwin, Geena Davis, Annie McEnroe, Maurice Page",
+      "plot": "A couple of recently deceased ghosts contract the services of a \"bio-exorcist\" in order to remove the obnoxious new owners of their house.",
+      "posterUrl": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTUwODE3MDE0MV5BMl5BanBnXkFtZTgwNTk1MjI4MzE@._V1_SX300.jpg",
+      "_id": "625085ea504b8f46989a9d42"
+    },
+    {
+      "genres": ["Comedy", "Fantasy"],
+      "title": "Beetlejuice",
+      "year": 1988,
+      "runtime": 92,
+      "director": "Tim Burton",
+      "actors": "Alec Baldwin, Geena Davis, Annie McEnroe, Maurice Page",
+      "plot": "A couple of recently deceased ghosts contract the services of a \"bio-exorcist\" in order to remove the obnoxious new owners of their house.",
+      "posterUrl": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTUwODE3MDE0MV5BMl5BanBnXkFtZTgwNTk1MjI4MzE@._V1_SX300.jpg",
+      "_id": "6250860153708ccae4b4b901"
+    },
+    {
+      "genres": ["Comedy", "lol"],
+      "title": "Beetlejuice",
+      "year": 1988,
+      "runtime": 92,
+      "director": "Tim Burton",
+      "actors": "Alec Baldwin, Geena Davis, Annie McEnroe, Maurice Page",
+      "plot": "A couple of recently deceased ghosts contract the services of a \"bio-exorcist\" in order to remove the obnoxious new owners of their house.",
+      "posterUrl": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTUwODE3MDE0MV5BMl5BanBnXkFtZTgwNTk1MjI4MzE@._V1_SX300.jpg",
+      "_id": "625086163a78670fa7ee1b9a"
     }
   ]
 }

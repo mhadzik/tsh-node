@@ -8,10 +8,35 @@ const dirPath = path.join(
   "db.json"
 );
 
+const genres = [
+  "Comedy",
+  "Fantasy",
+  "Crime",
+  "Drama",
+  "Music",
+  "Adventure",
+  "History",
+  "Thriller",
+  "Animation",
+  "Family",
+  "Mystery",
+  "Biography",
+  "Action",
+  "Film-Noir",
+  "Romance",
+  "Sci-Fi",
+  "War",
+  "Western",
+  "Horror",
+  "Musical",
+  "Sport",
+];
+
 const MovieSchema = new mongoose.Schema({
   genres: {
-    type: Array,
+    type: [String],
     required: true,
+    enum: genres,
   },
   title: {
     type: String,
