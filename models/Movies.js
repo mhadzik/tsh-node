@@ -41,7 +41,7 @@ const MovieSchema = new mongoose.Schema({
   title: {
     type: String,
     required: true,
-    maxLength: 255,
+    maxLength: [255, "Too long, 255 characters only."],
   },
   year: {
     type: Number,
@@ -54,7 +54,7 @@ const MovieSchema = new mongoose.Schema({
   director: {
     type: String,
     required: true,
-    maxLength: 255,
+    maxLength: [255, "Too long, 255 characters only."],
   },
   actors: {
     type: String,
@@ -81,6 +81,7 @@ MovieSchema.methods.getMoviesFromFile = function getMoviesFromFile(callback) {
 
 MovieSchema.methods.saveMovie = function saveMovie() {
   MovieSchema.methods.getMoviesFromFile((Movies) => {
+    Movies.g;
     Movies.movies.push(this);
     fs.writeFile(dirPath, JSON.stringify(Movies), (err) => {
       console.log(err);
