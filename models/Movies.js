@@ -81,7 +81,6 @@ MovieSchema.methods.getMoviesFromFile = function getMoviesFromFile(callback) {
 
 MovieSchema.methods.saveMovie = function saveMovie() {
   MovieSchema.methods.getMoviesFromFile((Movies) => {
-    Movies.g;
     Movies.movies.push(this);
     fs.writeFile(dirPath, JSON.stringify(Movies), (err) => {
       console.log(err);
